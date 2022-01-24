@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emaksimova
-- 📫 EugeMaximova@gmail.com
+- 📫 emaksimova@cs-cart.com
 
 <!---
 Barge/Barge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

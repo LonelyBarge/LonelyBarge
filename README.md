@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Barge
+- 👋 Hi, I’m @emaksimova
 - 📫 EugeMaximova@gmail.com
 
 <!---
